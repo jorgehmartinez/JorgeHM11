@@ -8,5 +8,5 @@
 
 ### Contact:
 ####[![LinkedIn](https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-noire.png)](https://www.linkedin.com/in/jorgehuanca/)
-####[![Twitter](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ficonos-gratis%2Ftwitter-logo-fondo-negro_781311.htm&psig=AOvVaw3bEFrp3rM2Fv_uovY5bTJ3&ust=1629956689412000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDUkv-7y_ICFQAAAAAdAAAAABAD)](https://twitter.com/JorgeAHM_98)
+####[![Twitter](https://w7.pngwing.com/pngs/595/477/png-transparent-twitter-logo-computer-icons-logo-twitter-miscellaneous-monochrome-computer-wallpaper.png)](https://twitter.com/JorgeAHM_98)
 
