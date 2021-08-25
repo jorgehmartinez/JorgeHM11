@@ -7,8 +7,9 @@
 - I'm interested in behavioral science, public policies, and psychometry.
 
 ### Contact:
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-#### [![LinkedIn](https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-noire.png)](https://www.linkedin.com/in/jorgehuanca/)
 
-####[![Twitter](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FJxmihm_twitter-icon-circle-size-hd-png-download%2F&psig=AOvVaw34AdtTNZWa-tnsDCjiHIjd&ust=1629956833102000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCcqcO8y_ICFQAAAAAdAAAAABAJ)](https://twitter.com/JorgeAHM_98)
-
+[twitter]: https://twitter.com/JorgeAHM_98
+[linkedin]: https://www.linkedin.com/in/jorgehuanca/
