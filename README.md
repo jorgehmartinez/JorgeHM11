@@ -7,6 +7,6 @@
 - I'm interested in behavioral science, public policies, and psychometry.
 
 ### Contact:
-![Twitter](https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-noire.png)(https://twitter.com/JorgeAHM_98)
+[![Twitter](https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-noire.png)](https://twitter.com/JorgeAHM_98)
 - [LinkedIn](https://www.linkedin.com/in/jorgehuanca/)
 
