@@ -1,4 +1,4 @@
-# Hi there. I'm Jorge 👋
+# Hi there, my name is Jorge 👋
 
 ### About me:
 - I'm psychology student at UNMSM.
@@ -6,7 +6,7 @@
 - I'm currently working as Research Assistant in [Decision Lab PUCP](https://www.facebook.com/decisionlabPUCP)
 - I'm interested in behavioral science, public policies, and psychometry.
 
-### Contact:
+### Contact me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
