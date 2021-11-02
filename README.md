@@ -1,4 +1,4 @@
-# Hi there, my name is Jorge 👋
+# Hi there, I'm Jorge 👋
 
 ### About me:
 - I'm psychology student at UNMSM.
