@@ -15,6 +15,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/JorgeHM11)](https://github.com/JorgeHM11)
 [![Twitter Badge](https://img.shields.io/badge/-@JorgeAHM_98-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=JorgeAHM_98 "Follow on Twitter")
 
+<hr>
 
 ## ⚡ Technologies:
 
