@@ -12,7 +12,7 @@
 ## ⚡ Technologies
 
 ![R](https://img.shields.io/badge/-R-darkblue?style=flat-square&logo=r)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
