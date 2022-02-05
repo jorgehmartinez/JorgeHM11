@@ -29,8 +29,7 @@
 
 ### 🔗 Contact me:
 
-[![Gmail Badge](https://img.shields.io/badge/-jorgeahm98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgeahm98@gmail.com)]
-(mailto:jorgeahm98@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jorgeahm98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgeahm98@gmail.com)](mailto:jorgeahm98@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-jorge.huanca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgehuanca/)](https://www.linkedin.com/in/jorgehuanca/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/JorgeHM11)](https://github.com/JorgeHM11)
 [![Twitter Badge](https://img.shields.io/badge/-@JorgeAHM_98-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=JorgeAHM_98 "Follow on Twitter")
