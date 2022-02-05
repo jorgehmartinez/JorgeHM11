@@ -6,8 +6,12 @@
 - I'm currently working as Research Assistant in [Decision Lab PUCP](https://www.facebook.com/decisionlabPUCP)
 - I'm interested in behavioral science, public policy, and psychometry.
 
+
+<hr>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JorgeHM11&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeHM11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=JorgeHM11)
+<hr>
 
 
 ### 🔗 Contact me:
@@ -15,7 +19,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-jorge.huanca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgehuanca/)](https://www.linkedin.com/in/jorgehuanca/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/JorgeHM11)](https://github.com/JorgeHM11)
 [![Twitter Badge](https://img.shields.io/badge/-@JorgeAHM_98-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=JorgeAHM_98 "Follow on Twitter")
-
 
 <hr>
 
