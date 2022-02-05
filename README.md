@@ -16,9 +16,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@JorgeAHM_98-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=JorgeAHM_98 "Follow on Twitter")
 
 
-<hr>
-
-## ⚡ Technologies
+## ⚡ Technologies:
 
 ![R](https://img.shields.io/badge/-R-darkblue?style=flat-square&logo=r)
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python)
