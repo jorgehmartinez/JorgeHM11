@@ -6,6 +6,7 @@
 - I'm currently working as Research Assistant in [Decision Lab PUCP](https://www.facebook.com/decisionlabPUCP)
 - I'm interested in behavioral science, public policy, and psychometry.
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=JorgeHM11&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeHM11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
