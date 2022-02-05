@@ -1,10 +1,15 @@
 # Hi there, I'm Jorge <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### About me:
+</p>
 📌 I'm psychologist at UNMSM.
+<br>
 📌 I'm member of [AMP](https://www.facebook.com/amp.unmsm), a group interested in quantitative research and psychological measurement.
+<br>
 📌 I'm currently working as Research Assistant in [Decision Lab PUCP](https://www.facebook.com/decisionlabPUCP)
+<br>
 📌 I'm interested in behavioral science, public policy, and psychometry.
+</p>
 
 ### 🔗 Contact me:
 [![Gmail Badge](https://img.shields.io/badge/-jorgeahm98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgeahm98@gmail.com)](mailto:jorgeahm98@gmail.com)
