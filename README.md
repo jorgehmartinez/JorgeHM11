@@ -8,7 +8,7 @@
 
 <hr>
 
-### 🔗 Contact me
+### 🔗 Contact me:
 
 [![Gmail Badge](https://img.shields.io/badge/-jorgeahm98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgeahm98@gmail.com)](mailto:jorgeahm98@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-jorge.huanca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgehuanca/)](https://www.linkedin.com/in/jorgehuanca/)
