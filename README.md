@@ -28,8 +28,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeHM11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
