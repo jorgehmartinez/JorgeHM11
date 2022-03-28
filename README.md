@@ -29,3 +29,6 @@
 
 <hr>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/JorgeHM11/JorgeHM11/output/github-contribution-grid-snake.svg)
+
