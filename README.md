@@ -1,4 +1,4 @@
-# Hi there, I'm Jorge <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Jorge <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 
 ### About me:
 - I'm psychologist at UNMSM.
