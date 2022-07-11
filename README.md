@@ -1,7 +1,7 @@
 # Hi there, I'm Jorge!
 
 ### About me:
-- ✅ I'm psychologist at UNMSM.
+- 🎓 I'm psychologist at UNMSM.
 - 📈 I'm member of [AMP](https://www.facebook.com/amp.unmsm), a group interested in quantitative research and psychological measurement.
 - 💼 I worked as Research Assistant in [Decision Lab PUCP](https://www.facebook.com/decisionlabPUCP)
 - ❤️ I'm interested in behavioral science, public policy, and psychometry.
