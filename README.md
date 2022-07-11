@@ -18,7 +18,7 @@
 
 <hr>
 
-## ⚡ Technologies:
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
 
 ![R](https://img.shields.io/badge/-R-darkblue?style=flat-square&logo=r)
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python)
