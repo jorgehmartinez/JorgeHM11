@@ -28,8 +28,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![](https://raw.githubusercontent.com/JorgeHM11/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
 <hr>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
