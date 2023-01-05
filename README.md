@@ -1,7 +1,7 @@
 # Hi there, I'm Jorge!
 
 ### About me:
-- 🎓 I'm psychologist at UNMSM. I'm studying a specialization in data science for social sciences at PUCP.
+- 🎓 I'm psychologist at UNMSM. I'm studying a specialization in data science at PUCP.
 - 💼 I working as Information Analyst in the public sector.
 - 📈 I'm member of [AMP](https://www.facebook.com/amp.unmsm), a group interested in quantitative research and psychological measurement.
 - ❤️ I'm interested in data science, public policy, behavioral science and psychometry
