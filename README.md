@@ -2,6 +2,8 @@
 
 ### About me:
 - 🎓 Bachelor's degree in Psychology, specializing in data science for social science.
+- 💼 Data Analyst in the Ministry of Education - Peru (MINEDU).
+- 📈 Member of [BehData](https://github.com/BehData), a group of behavioral professionals involved in data science.
 - 📈 Member of [AMP](https://www.facebook.com/amp.unmsm), a group interested in quantitative research and psychological measurement.
 - ❤️ Interests: data science, public policy, behavioral science and psychometrics
 - 💬 Ask me about anything.
